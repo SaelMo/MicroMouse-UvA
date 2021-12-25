@@ -1,0 +1,6 @@
+De Micromouse is een project bedoeld voor bovenbouw HAVO/VWO informatica scholieren. 
+Het project bestaat uit een Arduino die vervoert wordt door DC motoren, en bevat een set blokken voor een obstakel koers en IR/ultrasone sensoren. 
+Het doel van de Micromouse is dat de scholier leert hoe die code kan schrijven om de muis te besturen. 
+Het project eindigt met een de implementatie van de Wall Follower algoritme. 
+Dit project kan worden gebruikt voor keuze programma M van Physical computing als de focus ligt op de sensoren. 
+Ook keuze programma G: Algoritmiek, berekenbaarheid en logica, indien de focus meer ligt op het implementeren van algoritmen in de Micromouse.
